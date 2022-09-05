@@ -3,28 +3,36 @@
     "name": "calça",
     "path": "/cal%C3%A7a",
     "component": "/home/runner/aula-ecommerce/pages/calça.vue",
-    "chunkName": "pages/calça",
-    "_name": "_5b30ebec"
+    "chunkName": "pages/calça"
   },
   {
-    "name": "roupas",
-    "path": "/roupas",
-    "component": "/home/runner/aula-ecommerce/pages/roupas.vue",
-    "chunkName": "pages/roupas",
-    "_name": "_0bb3d850"
+    "name": "carrinho",
+    "path": "/carrinho",
+    "component": "/home/runner/aula-ecommerce/pages/carrinho.vue",
+    "chunkName": "pages/carrinho"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/runner/aula-ecommerce/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "produtos",
+    "path": "/produtos",
+    "component": "/home/runner/aula-ecommerce/pages/produtos.vue",
+    "chunkName": "pages/produtos"
   },
   {
     "name": "sobre",
     "path": "/sobre",
     "component": "/home/runner/aula-ecommerce/pages/sobre.vue",
-    "chunkName": "pages/sobre",
-    "_name": "_26dc09ca"
+    "chunkName": "pages/sobre"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/runner/aula-ecommerce/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0eadad34"
+    "chunkName": "pages/index"
   }
 ]

@@ -71,7 +71,7 @@ export default {
           
           <div class="column">
             <figure class="image">
-              <img src="https://amarotech-res.cloudinary.com/image/fetch/c_limit,f_auto,dpr_1,w_3840,q_auto/v1/https://amaroecp-res.cloudinary.com/image/upload/v1649418872/images/calca-slim-com-cinto-forrado-preto-03.jpg">
+              <img src="https://amarotech-res.cloudinary.com/image/fetch/c_limit,f_auto,dpr_1,w_3840,q_auto/v1/https://amaroecp-res.cloudinary.com/image/upload/v1649418872/images/calca-slim-com-cinto-forrado-preto-03.jpg" href="https://aula-ecommerce.fernandapimentel.repl.co/cal%C3%A7a">
             </figure>
 
             <figure class="image mt-5">

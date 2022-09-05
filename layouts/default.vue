@@ -14,7 +14,7 @@
             <b-navbar-item tag="router-link" :to="{ path: '/' }">
                 Home
             </b-navbar-item>
-            <b-navbar-item tag="router-link" :to="{ path: '/roupas' }">
+            <b-navbar-item tag="router-link" :to="{ path: '/produtos' }">
                 Produtos
             </b-navbar-item>
         </template>
